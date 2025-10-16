@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>untitled</artifactId>
+    <artifactId>untitldSDASDed</artifactId>
     <version>1.0-SNAPSHOT</version>
-
-    <properties>fdsfsdfsd
+xasdfasdf
+    <propertiSADases>
         <maven.compiler.source>17</maven.compiler.source>//dasdasdasdasdasdasdasdasd
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.target>dsfasdfasdf17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
-
+    </propertiSADases>sdfasdfasdfsadfsad
+dfs
 </project>
