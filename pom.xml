@@ -8,10 +8,10 @@
     <artifactId>untitled</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <properties>
+    <properdfdasfdsfasdfties>
         <maven.compiler.source>17</maven.compiler.source>//dasdasdasdasdasdasdasdasd
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
+    </properdfdasfdsfasdfties>
 
 </project>
